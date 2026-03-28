@@ -23,7 +23,7 @@ I'm a Frontend / UI engineer and open-source maintainer building rich, responsiv
   A web-native, build-free reactive UI library.
 
 - **[IAM v2](https://github.com/coreybutler/iam/tree/v2)**  
-  Major next-generation rewrite of an identification and access management library originally created by Corey Butler.
+  Lead developer of the v2 rewrite of an identification and access management library originally created by Corey Butler.
 
 - **[fluidtype](https://github.com/gbdrummer/fluidtype)**  
   A CSS library for fluid typography and layout behavior based on container queries.
