@@ -19,7 +19,7 @@ I'm a Frontend / UI engineer and open-source maintainer building rich, responsiv
 - **[Tracer](https://github.com/gbdrummer/tracer)**
   A deterministic signals library exploring predictable reactive state and dependency flows.
 
-- **[Jet]()**
+- **[Jet](https://github.com/gbdrummer/jet)**
   A web-native, build-free reactive UI library.
 
 - **[IAM v2](https://github.com/coreybutler/iam/tree/v2)**  
