@@ -1,6 +1,6 @@
 # Hi, I'm Graham Butler
 
-I'm a Frontend / UI engineer and open-source maintainer building rich, responsive user interfaces, developer tooling, and reactive UI systems.
+I'm a Frontend/UI engineer and open-source maintainer building rich, responsive user interfaces, developer tooling, and reactive UI systems.
 
 ## Areas of interest
 
