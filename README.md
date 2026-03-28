@@ -32,7 +32,7 @@ I'm a Frontend / UI engineer and open-source maintainer building rich, responsiv
 
 I’m currently spending time on:
 
-- modern UI e2e architectures
+- modern full-stack UI systems architecture
 - reactive systems
 - TypeScript
 - developer tooling
