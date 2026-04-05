@@ -40,4 +40,4 @@ I’m currently spending time on:
 ## Links
 
 <!-- - Website: [author.io](https://author.io) -->
-- LinkedIn: [graham-butler](https://www.linkedin.com/in/graham-butler-6504454)
+- LinkedIn: [graham-butler](https://www.linkedin.com/in/gbdrummer/)
