@@ -13,7 +13,7 @@ I'm a Frontend/UI engineer and open-source maintainer building rich, responsive 
 
 ## Featured projects
 
-- **[nvm-windows](https://github.com/coreybutler/nvm-windows)**
+- **[nvm-windows](https://github.com/nvm-windows/nvm)**
   I'm an active maintainer of a popular Node.js version manager for Windows.
 
 - **[Tracer](https://github.com/gbdrummer/tracer)**
