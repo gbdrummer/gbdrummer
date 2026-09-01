@@ -16,7 +16,7 @@ I'm a Frontend/UI engineer and open-source maintainer building rich, responsive 
 - **[nvm-windows](https://github.com/nvm-windows/nvm)**
   I'm an active maintainer of a popular Node.js version manager for Windows.
 
-- **[Tracer](https://github.com/gbdrummer/tracer)**
+- **[Signalib](https://github.com/gbdrummer/signalib)**
   A deterministic signals library exploring predictable reactive state and dependency flows.
 
 - **[Jet](https://github.com/gbdrummer/jet)**
