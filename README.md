@@ -10,6 +10,8 @@ I'm a Frontend/UI engineer and open-source maintainer building rich, responsive 
 - Developer tooling
 - Reactive programming models
 - Accessible, maintainable interfaces
+- Systems Thinking
+- First-Principles Design
 
 ## Featured projects
 
