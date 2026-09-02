@@ -30,15 +30,6 @@ I'm a Frontend/UI engineer and open-source maintainer building rich, responsive 
 - **[fluidtype](https://github.com/gbdrummer/fluidtype)**  
   A CSS library for fluid typography and layout behavior based on container queries.
 
-## Current focus
-
-I’m currently spending time on:
-
-- modern full-stack UI systems architecture
-- reactive systems
-- TypeScript
-- developer tooling
-
 ## Links
 
 <!-- - Website: [author.io](https://author.io) -->
